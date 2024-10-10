@@ -12,5 +12,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+https://github-readme-stats.vercel.app/api?username=I-deun&show_icons=true&theme=radical
 
 
